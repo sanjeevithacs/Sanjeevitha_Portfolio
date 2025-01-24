@@ -1,6 +1,3 @@
-# Sanjeevitha_Portfolio
-
-
 SCREENSHOTS
 
 ![Screenshot 2025-01-24 141502](https://github.com/user-attachments/assets/91266216-17e2-46a8-a636-b4f775966296)
