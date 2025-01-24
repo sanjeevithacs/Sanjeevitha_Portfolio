@@ -1,0 +1,59 @@
+.skills-section {
+  padding: 2rem;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.skills-section h2 {
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+.skills-section ul {
+  list-style: none;
+  padding: 0;
+}
+
+.skills-section ul li {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+.profiles {
+  margin-top: 2rem;
+}
+
+.profiles h3 {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+}
+
+.profile-links {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+}
+
+.profile-link {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: #333;
+  font-size: 1.1rem;
+  font-weight: bold;
+  transition: transform 0.2s ease, color 0.2s ease;
+}
+
+.profile-link:hover {
+  transform: scale(1.05);
+  color: #007bff;
+}
+
+.profile-link img {
+  width: 24px;
+  height: 24px;
+  margin-right: 0.5rem;
+}

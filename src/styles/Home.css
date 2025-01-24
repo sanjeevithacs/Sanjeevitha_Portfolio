@@ -1,0 +1,17 @@
+.home-section {
+    margin-left: 250px;
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .home-section h1 {
+    font-size: 3rem;
+    color: #333;
+  }
+  
+  .home-section p {
+    font-size: 1.2rem;
+    margin-top: 1rem;
+    color: #555;
+  }
+  
